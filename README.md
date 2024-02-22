@@ -61,3 +61,5 @@ major parts:
 zkSync is distributed under the terms of both the MIT license and the Apache License (Version 2.0).
 
 See [LICENSE-APACHE](LICENSE-APACHE), [LICENSE-MIT](LICENSE-MIT) for details.
+
+Can we just get this token up and runnign already
